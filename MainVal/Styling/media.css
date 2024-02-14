@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+    body{
+        background-color: green;
+    }
+    .container{
+    padding: 0 2rem;
+    }
+    
+}
+@media (max-width: 500px) {
+    
+}
